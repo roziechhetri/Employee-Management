@@ -19,18 +19,3 @@ public interface EmpService {
 
 }
 
-/*
-
- public Employee save(Employee employee) {
-        return employeeRepository.save(employee);
-    }
-
-    public Employee update(Employee employee) {
-        return employeeRepository.save(employee);
-    }
-
-    public void delete(Long id) {
-        employeeRepository.deleteById(id);
-    }
-
-*/
